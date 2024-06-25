@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "mikailandco/techbridge",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "mikail\\techbridge\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "techbridge"
         }
     ],
     "require": {
