@@ -1,13 +1,13 @@
 {
-    "name": "mikailandco/techbridge",
+    "name": "techloom/techloom",
     "autoload": {
         "psr-4": {
-            "mikail\\techbridge\\": "src/"
+            "mikail\\techloom\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "techbridge"
+            "name": "techloom"
         }
     ],
     "require": {
